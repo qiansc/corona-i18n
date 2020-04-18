@@ -1,0 +1,9 @@
+DIALOGSTRINGS DLG_ABOUT
+{
+    CORONA_DLG_ABOUT_HOMEPAGE "Homepage:";
+    CORONA_DLG_ABOUT_ACTIVATE_BTN "Activate license";
+    CORONA_DLG_ABOUT_REMOVE_BTN "Remove license";
+    CORONA_DLG_ABOUT_WEB_BTN "Go to licensing management website...";
+    CORONA_DLG_ABOUT_REPORT_BTN "Report bug";
+    CORONA_DLG_ABOUT_CLOSE_BTN "OK";
+}

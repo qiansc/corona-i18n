@@ -1,0 +1,52 @@
+STRINGTABLE prefscorona
+{
+    prefscorona "Corona";
+
+    PREF_CORONA_ERRORS "Errors and warnings";
+    PREF_CORONA_LOGGING "Console logging";
+    PREF_CORONA_MATERIAL_PREVIEW "Preview in Material Editor";
+    PREF_CORONA_IR "Interactive rendering";
+    PREF_CORONA_AUTOSAVE "Output autosave";
+    PREF_CORONA_VFB "VFB settings";
+    PREF_CORONA_VFB_HISTORY "Render history and A/B comparison (VFB)";
+    PREF_CORONA_DEVEL "Advanced";
+
+    PREF_CORONA_LOGGING_GUI "Show";
+    PREF_CORONA_LOGGING_GUI_DISABLED "None";
+    PREF_CORONA_LOGGING_GUI_ERRORS "Errors";
+    PREF_CORONA_LOGGING_GUI_WARNINGS "Errors and warnings";
+
+    PREF_CORONA_LOGGING_ENABLE "Enable logging";
+    PREF_CORONA_LOGGING_SUPPRESS_INTERACTIVE "    Suppress in interactive rendering";
+    PREF_CORONA_LOGGING_SUPPRESS_MATERIAL "    Suppress in material preview";
+
+    PREF_CORONA_PREVIEW_QUALITY "Preview quality";
+    PREF_CORONA_PREVIEW_CHECKER "Use checker texture";
+    PREF_CORONA_PREVIEW_C4D_SCENE "Use original Cinema 4D scene";
+
+    PREF_CORONA_IR_THREADS_OVERRIDE "# of threads override";
+    PREF_CORONA_IR_UPSCALING "Image upscaling factor";
+    PREF_CORONA_IR_MAX_RESOLUTION "Maximum resolution";
+
+    PREF_CORONA_AUTOSAVE_ENABLE "Enable autosave";
+    PREF_CORONA_AUTOSAVE_INTERVAL "Autosave interval [min]";
+    PREF_CORONA_AUTOSAVE_KEEP_DURING "# of images kept during render";
+    PREF_CORONA_AUTOSAVE_KEEP_AFTER "# of images kept on render end";
+    PREF_CORONA_AUTOSAVE_PATH "Filename";
+
+    PREF_CORONA_VFB_TYPE "Default frame buffer";
+    PREF_CORONA_VFB_TYPE_PV "Cinema 4D picture viewer";
+    PREF_CORONA_VFB_TYPE_VFB "Corona VFB";
+    PREF_CORONA_VFB_UPDATE_INTERVAL "Update interval [ms]";
+    PREF_CORONA_VFB_TITLE "VFB title";
+
+    PREF_CORONA_VFB_AUTOSAVE "Automatic saving on render end";
+
+    PREF_CORONA_ENABLE_DEVEL "Enable devel/debug mode";
+    PREF_CORONA_DEVEL_MENU_HOOKS "Enhance render commands";
+    PREF_CORONA_DEVEL_HIDDEN_PV_RENDER "Show VFB render in PV";
+    PREF_CORONA_DEVEL_PV_POSTPROCESSING "Update PV image after rendering";
+    PREF_CORONA_OPENGL_VIEWPORT "Enhanced OpenGL preview of Corona materials";
+
+    PREF_ABOUT_DIALOG "About & licensing";
+}

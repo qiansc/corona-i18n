@@ -1,0 +1,15 @@
+STRINGTABLE Mblendmaterial
+{
+    Mblendmaterial "Corona Layered Material";
+
+    CORONA_BLEND_BASIC "Layers";
+    ID_CORONA_BLEND_BASIC "Layers";
+
+    CORONA_BLEND_BASE_MATERIAL "Base material";
+
+    CORONA_BLEND_LAYER_MATERIAL "##";
+    CORONA_BLEND_LAYER_VALUE "Amount";
+    CORONA_BLEND_LAYER_MASK " ";
+    CORONA_BLEND_LAYER_ENABLED " ";
+    CORONA_BLEND_LAYER_MASK_ENABLED "Mask";
+}

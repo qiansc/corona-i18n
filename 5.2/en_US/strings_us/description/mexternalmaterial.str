@@ -1,0 +1,17 @@
+STRINGTABLE Mexternalmaterial
+{
+    Mexternalmaterial "Corona External Material";
+
+    CORONA_EXTERNAL_BASIC "Material";
+    ID_CORONA_EXTERNAL_BASIC "External Material" "Material";
+
+    CORONA_EXTERNAL_MAT "##";
+    CORONA_EXTERNAL_DIRECT "Simple conversion (faster rendering)";
+
+    CORONA_EXTERNAL_CHANNELS "Enabled channels";
+    CORONA_EXTERNAL_DIFFUSE "Diffuse";
+    CORONA_EXTERNAL_REFLECTION "Reflection";
+    CORONA_EXTERNAL_REFRACTION "Refraction";
+    CORONA_EXTERNAL_BUMPMAPPING "Bump";
+    CORONA_EXTERNAL_DISPLACEMENT "Displacement";
+}

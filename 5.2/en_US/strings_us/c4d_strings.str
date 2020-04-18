@@ -1,0 +1,140 @@
+STRINGTABLE
+{
+    CORONA_MENU_MAIN_MENU "Corona";
+    CORONA_MENU_SKYOBJECT "Corona Sky";
+    CORONA_MENU_CORONACAMERA "Corona Camera";
+    CORONA_MENU_CORONAHAIR "Corona Hair";
+    CORONA_MENU_MULTIPASS "Multi-Pass...";
+    CORONA_MENU_VFB "Corona VFB...";
+    CORONA_MENU_INTERACTIVE "Interactive rendering";
+    CORONA_MENU_INTERACTIVE_VIEWPORT "Interactive viewport";
+    CORONA_MENU_CONVERT "Convert scene...";
+    CORONA_MENU_NODE_SYSTEM "Node material editor...";
+    CORONA_MENU_PREFERENCES "Preferences...";
+    CORONA_MENU_HELP "Help...";
+    CORONA_MENU_ABOUT "About...";
+
+    CORONA_MENU_MATERIALS_MENU "Corona";
+    CORONA_MENU_MATERIAL_NEW  "New Material";
+    CORONA_MENU_MATERIAL_LAYERED  "Layered Material";
+    CORONA_MENU_MATERIAL_SELECT  "Select Material";
+    CORONA_MENU_MATERIAL_ENVIROPORTAL  "Portal Material";
+    CORONA_MENU_MATERIAL_LIGHT  "Light Material";
+    CORONA_MENU_MATERIAL_SHADOWCATCHER "Shadow Catcher Material";
+    CORONA_MENU_MATERIAL_VOLUME  "Volume Material";
+    CORONA_MENU_MATERIAL_RAYSWITCH "Ray Switcher Material";
+    CORONA_MENU_MATERIAL_SKIN "Skin Material";
+    CORONA_MENU_MATERIAL_HAIR "Hair Material";
+
+    CORONA_MENU_PV_MENU "Corona";
+    CORONA_MENU_PV_POSTPROCESS "Post process...";
+    CORONA_MENU_DUMP_EXR "Dump to CXR...";
+    CORONA_MENU_RESUME_FILE "Resume from CXR...";
+    CORONA_MENU_RESUME_LAST "Resume last";
+
+    CORONA_MENU_NODESYSTEM_ADD_EXISTING "Add existing...";
+
+    CORONA_MENU_NODESYSTEM_CREATE_VIEW "Create view";
+    CORONA_MENU_NODESYSTEM_RENAME_VIEW "Rename view";
+    CORONA_MENU_NODESYSTEM_DELETE_VIEW "Delete view";
+    CORONA_MENU_NODESYSTEM_SHOW_ALL_PREVIEWS "Show previews";
+    CORONA_MENU_NODESYSTEM_HIDE_ALL_PREVIEWS "Hide previews";
+    CORONA_MENU_NODESYSTEM_SHOW_ALL_PORTS "Show ports";
+    CORONA_MENU_NODESYSTEM_HIDE_ALL_PORTS "Hide ports";
+    CORONA_MENU_NODESYSTEM_FIT_TO_SCREEN "Fit to screen";
+    CORONA_MENU_NODESYSTEM_ADD_ALL_CONNECTIONS "Add all connections";
+    CORONA_MENU_NODESYSTEM_SORT_ALL_NODES "Sort all nodes";
+    CORONA_MENU_NODESYSTEM_REMOVE_UNUSED_SHADERS "Delete unused shaders";
+    CORONA_MENU_NODESYSTEM_REMOVE_UNUSED_MATERIALS "Delete unused materials";
+
+    CORONA_MENU_NODESYSTEM_HIDE_BODY "Hide body";
+    CORONA_MENU_NODESYSTEM_HIDE_PREVIEW "Hide preview";
+    CORONA_MENU_NODESYSTEM_ADD_CONNECTIONS "Add connections";
+    CORONA_MENU_NODESYSTEM_ADD_PORT_CONNECTIONS "Add port connections";
+    CORONA_MENU_NODESYSTEM_SORT_SELECTED_NODES "Sort selected nodes";
+    CORONA_MENU_NODESYSTEM_REMOVE_FROM_VIEW "Remove from view";
+    CORONA_MENU_NODESYSTEM_DELETE "Delete";
+
+    CORONA_MENU_NODESYSTEM_SAVE_UNSHARED_DOCUMENT_CLONE "Save without shared shaders...";
+
+    CORONA_OBJECT_CORONASUN "Corona Sun";
+    CORONA_OBJECT_CORONALIGHT "Corona Light";
+    CORONA_OBJECT_CORONAPROXY "Corona Proxy";
+
+    CORONA_TAG_COMPOSITING "Corona Compositing";
+    CORONA_TAG_CAMERA "Corona Camera";
+    CORONA_TAG_HAIR "Corona Hair";
+    CORONA_TAG_SKYMATERIAL "Corona Sky (deprecated)";
+
+    CORONA_STR_MENU_PROXYEXPORTER "Corona Proxy (*.cgeo)";
+
+    CORONA_STR_PREFERENCES "Corona";
+
+    CORONA_STR_CORONA "Corona";
+    CORONA_STR_MATERIAL "Material";
+    CORONA_STR_MATERIAL_BLEND "Layered";
+    CORONA_STR_MATERIAL_SELECT "Select";
+    CORONA_STR_MATERIAL_ENVIROPORTAL "Portal";
+    CORONA_STR_MATERIAL_EXTERNAL "External";
+    CORONA_STR_MATERIAL_LIGHT "Light";
+    CORONA_STR_MATERIAL_SHADOWCATCHER "Shadow Catcher";
+    CORONA_STR_MATERIAL_VOLUME "Volume";
+    CORONA_STR_MATERIAL_RAYSWITCH "Ray Switcher";
+    CORONA_STR_MATERIAL_SKIN "Skin";
+    CORONA_STR_MATERIAL_HAIR "Hair";
+    CORONA_STR_HOOKS "Corona Hooks";
+    CORONA_STR_NODEMATERIALSHOOK "Corona Node Materials Hooks";
+    CORONA_STR_MULTIPASS "Corona Multi-Pass";
+    CORONA_STR_AOSHADER "AO";
+    CORONA_STR_WIRESHADER "Wire";
+    CORONA_STR_ROUNDEDGESSHADER "RoundEdges";
+    CORONA_STR_NORMALSHADER "Normal";
+    CORONA_STR_RAYSWITCHSHADER "Ray Switch";
+    CORONA_STR_CORONABITMAPSHADER "Bitmap";
+    CORONA_STR_CORONAOUTPUT "Corona Color Correct";
+    CORONA_STR_MULTIPASSHOOK "Multi-pass";
+    CORONA_STR_CORONACOLORMIX "Color Mix";
+    CORONA_STR_TONEMAPCONTROL "Corona Tonemap Control";
+    CORONA_STR_SHAREDSHADER "Corona Shared";
+    CORONA_STR_SHADERCONTROLNODE "Shader Control Node";
+    CORONA_STR_TRIPLANARSHADER "Triplanar";
+    CORONA_STR_UVWRANDOMIZER "UVW Randomizer";
+    CORONA_STR_SELECTSHADER "Corona Select Shader";
+    CORONA_STR_MULTISHADER "Corona Multi Shader";
+    CORONA_STR_SKYSHADER "Sky";
+
+    CORONA_STR_CONFIRM_RESET "This will reset all render settings, do you really want to continue?";
+    CORONA_STR_CONFIRM_STAMP_RESET "This will reset render stamp to its original state, do you want to continue?";
+    CORONA_STR_EMPTY_SHADER "Empty";
+    CORONA_STR_SELECT_SHARED_SHADER "Select shader to be linked";
+    CORONA_STR_EXPORT_SCENE_PROMPT "Choose a filename for the exported scene";
+    CORONA_STR_EXPORT_SCENE_FILETYPE "Corona Standalone Scene (*.scn)|*.scn";
+    CORONA_STR_EXPORT_ERROR_MESSAGE "Cannot export scene while rendering!";
+    CORONA_STR_XREF_GENERATOR_ERROR "You have XRefs in your scene (or in linked scenes) and at least one of them has the Generator option turned on. XRefs with Generator option turned on are not supported in Corona Interactive Renderer.
+
+If you want Corona to uncheck the Generator option for you and then run the Interactive Renderer, click the Turn off and run IR button.
+
+Note that it's impossible to turn off the Generator option for XRefs in other documents.";
+
+    CORONA_STR_LEGACY_BACKWARD_DLG_TITLE "Legacy scene conversion";
+    CORONA_STR_LEGACY_BACKWARD_DLG_TEXT "This scene was saved in one of the previous versions of Corona. Current version contains some changes that can lead to visible differences in the final render. The scene was loaded with the old behavior to keep the render result exactly same, but we strongly recommend switching to the new behavior.";
+    CORONA_STR_LEGACY_BACKWARD_DLG_SWITCH "Switch";
+    CORONA_STR_LEGACY_BACKWARD_DLG_CANCEL "Cancel";
+    CORONA_STR_LEGACY_BACKWARD_DLG_SWITCH_ALL "Switch all";
+    CORONA_STR_LEGACY_BACKWARD_DLG_CANCEL_ALL "Cancel all";
+    CORONA_STR_LEGACY_BACKWARD_DLG_CONFIRM "Confirm";
+    CORONA_STR_LEGACY_DISPLACEMENT_TITLE "Autobump";
+    CORONA_STR_LEGACY_DISPLACEMENT_TEXT "This scene uses legacy (pre-v3) displacement. It generally has lower quality compared to Version 3 displacement and requires fine tessellation of the geometry, it is therefore more memory intensive. Do you want to switch to the new behavior?";
+    CORONA_STR_LEGACY_MEDIUM_RESOLVING_TITLE "New medium resolving";
+    CORONA_STR_LEGACY_MEDIUM_RESOLVING_TEXT "This scene uses legacy (pre-v4) medium/refraction resolving that is not based on the geometry normals and produces incorrect results when multiple medium containers are intersecting each another. If the orientation of normals is correct, switching will preserve or improve the look of the scene. Do you want to switch to the new behavior?";
+    CORONA_STR_LEGACY_LIGHT_INSTANCES_TITLE "New light instance resolving";
+    CORONA_STR_LEGACY_LIGHT_INSTANCES_TEXT "This scene contains instances of Corona light. Color of these instances was resolved differently in v3 (always using the color directly from cloner/instance). From this version on, we changed the behavior to match how standard Cinema 4D lights behave. Do you want to switch to the new behavior?";
+    CORONA_STR_LEGACY_DISPLACEMENT_STACKING_TITLE "Displacement layering";
+    CORONA_STR_LEGACY_DISPLACEMENT_STACKING_TEXT "Some objects in the scene have multiple materials with displacement attached. In the previous versions of Corona, these situations were resolved by taking the first displacement only, in the current version Corona supports displacement layering by combining the active displacements from all materials applied to the object. Do you want to switch to the new behavior?";
+    CORONA_STR_LEGACY_GRID_DISPLACEMENT_TITLE "New 2.5D displacement";
+    CORONA_STR_LEGACY_GRID_DISPLACEMENT_TEXT "This scene uses legacy (pre Version 5) displacement. It generally has higher memory consumption compared to the new 2.5D displacement. It is recommended to enable this new displacement mode. Do you want to switch to 2.5D displacement?";
+    CORONA_STR_NODESYSTEM_SAVE_UNSHARED_DOCUMENT_CLONE_VER_UNSUPPORTED "Sorry, C4D Demo version does not allow saving the scene.";
+    CORONA_STR_NODESYSTEM_SAVE_UNSHARED_DOCUMENT_CLONE_INFO "A clone of the current scene will be saved with all shared shaders replaced. The current scene will not be changed.
+
+Use this if some node materials in the scene don't render properly. Proceed?";
+}

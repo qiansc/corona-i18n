@@ -1,0 +1,20 @@
+STRINGTABLE Mrayswitchmaterial
+{
+    Mrayswitchmaterial "Corona Ray Switcher Material";
+
+    CORONA_RAYSWITCH_RAYS "Ray types";
+    ID_CORONA_RAYSWITCH_RAYS "Ray types";
+
+    CORONA_RAYSWITCH_MAT_NOTE "Different materials will be used for different ray types:";
+
+    CORONA_RAYSWITCH_MAT_NORMAL "Global illumination" "Global illum.";
+    CORONA_RAYSWITCH_MAT_REFLECT "Reflection";
+    CORONA_RAYSWITCH_MAT_REFRACT "Refraction";
+    CORONA_RAYSWITCH_MAT_DIRECT "Directly visible";
+
+    CORONA_RAYSWITCH_DISPLACEMENT_SOURCE "Displacement from";
+    CORONA_RAYSWITCH_DISPLACEMENT_SOURCE_NORMAL "Global illumination material";
+    CORONA_RAYSWITCH_DISPLACEMENT_SOURCE_REFLECT "Reflection material";
+    CORONA_RAYSWITCH_DISPLACEMENT_SOURCE_REFRACT "Refraction material";
+    CORONA_RAYSWITCH_DISPLACEMENT_SOURCE_DIRECT "Directly visible material";
+}

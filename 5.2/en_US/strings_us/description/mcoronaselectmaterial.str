@@ -1,0 +1,12 @@
+STRINGTABLE Mcoronaselectmaterial
+{
+    Mcoronaselectmaterial "Corona Select Material";
+
+    CORONA_SELECT_MTL_BASIC "Layers";
+    ID_CORONA_SELECT_MTL_BASIC "Layers";
+    CORONA_SELECT_MTL_ROW_COUNT "Material count";
+    CORONA_SELECT_MTL_CURRENT_ROW "Current index";
+
+    CORONA_SELECT_MTL_COLUMN_SELECTED "##";
+    CORONA_SELECT_MTL_COLUMN_MATERIAL "##";
+}

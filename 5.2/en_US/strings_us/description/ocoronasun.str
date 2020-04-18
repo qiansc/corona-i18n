@@ -1,0 +1,29 @@
+STRINGTABLE Ocoronasun
+{
+    Ocoronasun "Corona Sun";
+    CORONA_SUN_ENABLED "Enabled";
+    CORONA_SUN_SIZE "Size";
+    CORONA_SUN_VIEWSIZE "View size";
+    CORONA_SUN_TEXTURED "Textured";
+    CORONA_SUN_INTENSITY "Intensity";
+    CORONA_SUN_INHERIT_COLOR "Use color from sky";
+    CORONA_SUN_OVERRIDE_COLOR "Color";
+    CORONA_SUN_COLOR " ";
+    CORONA_SUN_OVERRIDE_TEMPERATURE "Temperature";
+    CORONA_SUN_TEMPERATURE " ";
+    CORONA_SUN_DIRECTION "Direction";
+    CORONA_SUN_ROTATION "Rotation";
+    CORONA_SUN_ANGLE "Angle";
+    CORONA_SUN_VISIBLE_DIRECT "Visible directly";
+    CORONA_SUN_VISIBLE_REFLECT "Visible in reflections";
+    CORONA_SUN_VISIBLE_REFRACT "Visible in refractions";
+    CORONA_SUN_VISIBLE_CAUSTICS "Generate caustics";
+    CORONA_SUN_VISIBLE_EDITOR "Visible in editor";
+
+    CORONA_SUN_GROUP_INEXCLUDE "Include / Exclude";
+    CORONA_SUN_INEXCLUDE_TYPE "";
+    CORONA_SUN_INEXCLUDE_TYPE_INCLUDE "Include";
+    CORONA_SUN_INEXCLUDE_TYPE_EXCLUDE "Exclude";
+    CORONA_SUN_INEXCLUDE "";
+    CORONA_SUN_INEXCLUDE_RECURSIVE "Recursive";
+}

@@ -1,0 +1,11 @@
+STRINGTABLE multipass_id
+{
+    multipass_id "";
+    
+    CORONA_MULTIPASS_ID_TYPE "ID";
+    CORONA_MULTIPASS_ID_PRIMITIVE "Primitive";
+    CORONA_MULTIPASS_ID_GEOMETRY_GROUP "Geometry group";
+    CORONA_MULTIPASS_ID_INSTANCE "Instance";
+    CORONA_MULTIPASS_ID_MATERIAL "Material";
+    CORONA_MULTIPASS_ID_OBJECT "Object";
+}

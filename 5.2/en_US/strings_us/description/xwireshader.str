@@ -1,0 +1,17 @@
+STRINGTABLE Xwireshader
+{
+    Xwireshader "Wire Shader";
+
+    CORONA_WIRE_COLOR "Base color";
+    CORONA_WIRE_EDGES "Edges";
+    CORONA_WIRE_VERTICES "Vertices";
+    CORONA_WIRE_EDGES_COLOR "Edges color";
+    CORONA_WIRE_VERTICES_COLOR "Vertices color";
+    CORONA_WIRE_USE_WORLD "Width (world units)";
+    CORONA_WIRE_EDGES_WORLD "Width (units)";
+    CORONA_WIRE_VERTICES_WORLD "Width (units)";
+    CORONA_WIRE_USE_PIXEL "Width (pixels)";
+    CORONA_WIRE_EDGES_PIXEL "Width (px)";
+    CORONA_WIRE_VERTICES_PIXEL "Width (px)";
+    CORONA_WIRE_EDGES_ALL "All edges";
+}

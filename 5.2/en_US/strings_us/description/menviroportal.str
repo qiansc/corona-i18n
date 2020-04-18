@@ -1,0 +1,8 @@
+STRINGTABLE Menviroportal
+{
+    Menviroportal "Corona Portal Material";
+
+    CORONA_PORTALMTL_INFO "Info";
+    ID_CORONA_PORTALMTL_INFO "Info";
+    CORONA_PORTALMTL_NOTE "Portal materials work differently in Corona than in other renderers. You don't have to cover all openings, and they work with scenes that have both interior and exterior. The only restriction is that you should never have 2 portal polygons immediately behind each other (e. g. you should always apply the material only to single plane, not boxes).";
+}

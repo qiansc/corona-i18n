@@ -1,0 +1,6 @@
+STRINGTABLE multipass_lightmix
+{
+    multipass_lightmix "LightMix";
+    CORONA_MULTIPASS_LIGHTMIX_APPLY_BLOOM "\u5e94\u7528\u95ea\u5149";
+    CORONA_MULTIPASS_LIGHTMIX_APPLY_GLARE "\u5e94\u7528\u7729\u5149";
+}

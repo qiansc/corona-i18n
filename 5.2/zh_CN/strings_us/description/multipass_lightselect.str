@@ -1,0 +1,5 @@
+STRINGTABLE multipass_lightselect
+{
+    multipass_lightselect "\u706f\u5149\u7684\u9009\u62e9";
+    CORONA_MULTIPASS_LIGHTSELECT_INEXCLUDE "";
+}

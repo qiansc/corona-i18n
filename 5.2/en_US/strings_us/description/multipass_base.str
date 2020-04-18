@@ -1,0 +1,9 @@
+STRINGTABLE multipass_base
+{
+    multipass_base "";
+    CORONA_MULTIPASS_BASE_NAME "Name";
+    CORONA_MULTIPASS_BASE_TYPE_NAME "Type";
+    CORONA_MULTIPASS_BASE_ENABLE "Enable";
+    CORONA_MULTIPASS_BASE_ANTIALIASED "Filter";
+    CORONA_MULTIPASS_BASE_DENOISE "Apply denoising";
+}

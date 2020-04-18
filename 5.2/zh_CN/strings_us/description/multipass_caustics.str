@@ -1,0 +1,7 @@
+STRINGTABLE multipass_caustics
+{
+    multipass_caustics "";
+
+    CORONA_MULTIPASS_CAUSTICS_APPLY_BLOOM "\u5e94\u7528bloom";
+    CORONA_MULTIPASS_CAUSTICS_APPLY_GLARE "\u5e94\u7528\u5f3a\u5149";
+}

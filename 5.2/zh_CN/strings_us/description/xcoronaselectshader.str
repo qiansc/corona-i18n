@@ -1,0 +1,10 @@
+STRINGTABLE Xcoronaselectshader
+{
+    Xcoronaselectshader "Corona Select Shader";
+
+    CORONA_SELECT_SHADER_ROW_COUNT "\u7eb9\u7406\u6570";
+    CORONA_SELECT_SHADER_CURRENT_ROW "\u5f53\u524d\u7d22\u5f15";
+
+    CORONA_SELECT_SHADER_ROW_SELECTED "##";
+    CORONA_SELECT_SHADER_ROW_TEXTURE "##";
+}

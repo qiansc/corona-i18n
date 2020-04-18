@@ -1,0 +1,19 @@
+STRINGTABLE Tcoronasky
+{
+    Tcoronasky "Corona Sky";
+    CORONA_SKY_TYPE "Sky model";
+    CORONA_SKY_TYPE_RAWAFAKE "Rawa-fake";
+    CORONA_SKY_TYPE_HOSEK "Hosek&Wilkie";
+    CORONA_SKY_MULTIPLIER "Intensity";
+    CORONA_SKY_HORIZONBLUR "Horizon blur";
+    CORONA_SKY_GROUNDCOLOR "Ground color";
+    CORONA_SKY_SKYAFFECTGROUND "Ground affected by sky";
+    CORONA_SKY_SUNLINK "Sun";
+    CORONA_SKY_RAWAFAKE_ZENITH "Zenith color";
+    CORONA_SKY_RAWAFAKE_HORIZON "Horizon color";
+    CORONA_SKY_RAWAFAKE_SUNGLOW "Sundisk glow";
+    CORONA_SKY_RAWAFAKE_SUNSIDEGLOW "Sunside glow";
+    CORONA_SKY_HOSEK_TURBIDITY "Turbidity";
+    CORONA_SKY_NOTE "NOTE: Sky tag works as a procedural map for the environment. If you want to use an HDR texture, apply Corona light material to the sky object and remove this tag.";
+    CORONA_SKY_DEPRECATION_NOTE "NOTE: This tag is obsolete and will be removed in one of the future versions, please use Corona Sky object instead.";
+}

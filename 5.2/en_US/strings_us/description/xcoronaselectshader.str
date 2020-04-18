@@ -1,0 +1,10 @@
+STRINGTABLE Xcoronaselectshader
+{
+    Xcoronaselectshader "Corona Select Shader";
+
+    CORONA_SELECT_SHADER_ROW_COUNT "Texture count";
+    CORONA_SELECT_SHADER_CURRENT_ROW "Current index";
+
+    CORONA_SELECT_SHADER_ROW_SELECTED "##";
+    CORONA_SELECT_SHADER_ROW_TEXTURE "##";
+}

@@ -1,0 +1,6 @@
+STRINGTABLE multipass_lightmix
+{
+    multipass_lightmix "LightMix";
+    CORONA_MULTIPASS_LIGHTMIX_APPLY_BLOOM "Apply bloom";
+    CORONA_MULTIPASS_LIGHTMIX_APPLY_GLARE "Apply glare";
+}

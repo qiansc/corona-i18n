@@ -1,0 +1,7 @@
+STRINGTABLE multipass_samplingfocus
+{
+    multipass_samplingfocus "";
+    
+    CORONA_MULTIPASS_SAMPLINGFOCUS_MULTIPLIER "\u503c";
+    CORONA_MULTIPASS_SAMPLINGFOCUS_RELATIVE "\u76f8\u5bf9\u7684";
+}

@@ -1,0 +1,6 @@
+STRINGTABLE multipass_texmap
+{
+    multipass_texmap "";
+    CORONA_MULTIPASS_TEXMAP_SHADER "Map";
+    CORONA_MULTIPASS_TEXMAP_IGNORE_BACKGROUND "Ignore Background";
+}
